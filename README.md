@@ -1,14 +1,14 @@
-# Data Scientist
+# Digital ecosystem scientist
 
-### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Technical Skills: Python, SQL, AWS, Markdown, XML, UBL, Peppol, JSON-LD, MATLAB
 ## Education
-Ph.D., Construction | Aalto University (May 2022)
-M.S., Construction | Aalto University (December 2019)
-B.S., Construction | Aalto University (May 2017)
+Ph.D., Civil engineer | Aalto University (May 2022)
+M.S., Civil engineer | Aalto University (December 2019)
+B.S., Construction Site Management | Metropolia University of Applied Sciences (December 2020)
 
 ## Work Experience
 
-### Data Scientist @ Toyota Financial Services (June 2022 - Present)
+### Data Ecosystem Scientist/Founder @ Con X Digi Technologies (January 2024 - Present)
 
 Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
