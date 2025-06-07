@@ -2,9 +2,11 @@
 
 ### Technical Skills: Python, SQL, AWS, Markdown, XML, UBL, Peppol, JSON-LD, MATLAB
 ## Education
-> Ph.D., Civil engineer | Aalto University (May 2022)
-> M.S., Civil engineer | Aalto University (December 2019)
-> B.S., Construction Site Management | Metropolia University of Applied Sciences (December 2020)
+Ph.D., Civil engineer | Aalto University (May 2022)
+
+M.S., Civil engineer | Aalto University (December 2019)
+
+B.S., Construction Site Management | Metropolia University of Applied Sciences (December 2020)
 
 ## Work Experience
 
