@@ -1,58 +1,29 @@
-# Digital ecosystem scientist
+# Digital construction industry ecosystem scientist
 
 ### Technical Skills: Python, SQL, AWS, Markdown, XML, UBL, Peppol, JSON-LD, MATLAB
 ## Education
-Ph.D., Civil engineer | Aalto University (present)
+Ph.D., Building Technology | Aalto University (present)
 
-M.S., Civil engineer | Aalto University (April 2024)
+M.S., Building Technology | Aalto University (April 2024)
 
 B.S., Construction Site Management | Metropolia University of Applied Sciences (December 2020)
 
 ## Work Experience
 
-### Data Ecosystem Scientist/Founder @ Con X Digi Technologies (January 2024 - Present)
+### Founder @ Con X Digi Technologies (January 2024 - Present)
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-### Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
-
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Lorum ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac justo vel nisl fermentum consectetur. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Projects
-Data-Driven EEG Band Discovery with Decision Trees
+Lorum ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac justo vel nisl fermentum consectetur. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Publication
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-EEG Band Discovery
-
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-Publication
-
-Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-Bike Study
 
 ## Talks & Lectures
-Causality: The new science of an old question - GSP Seminar, Fall 2021
-
-Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-
-Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-
-A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-
-Weeks of Welcome Poster Competition - UTD, Fall 2019
-
-A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-Data Science YouTube
+Lorum ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac justo vel nisl fermentum consectetur. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. 
+1. Lorum ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac justo vel nisl fermentum consectetur. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+2. Lorum ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac justo vel nisl fermentum consectetur. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Data Science Blog
+
+
